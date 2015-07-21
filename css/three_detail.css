@@ -1,0 +1,19 @@
+/*
+* @author zhanglong  415831615@qq.com
+* @date 2015年6月6日 16:15:40;
+*/
+.con_main{margin-bottom:50px;}
+.con_main .m_title{height: 58px;position:relative;line-height: 58px;}
+.con_main .m_title p{height:58px;line-height: 58px;}
+.con_main .m_title p span{color:white;padding:1px 5px;background-color:#D91615;border-radius:4px;margin-right:5px;}
+.con_main .m_title img{position: absolute;left:0;bottom:0;border:none;}
+.con_main .m_title a{width:150px;height: 35px;background: url(../images/three_detail/detail1.png) no-repeat;margin-top:10px;}
+.mh2{height: 64px;line-height: 64px;border-bottom:1px solid #E4E4E4;text-align:center;color:#333333;font-size:20px;}
+.mh2 span{font-size:14px;color:#666666;}
+.ordertab{width: 999px;margin:0 auto;margin-top:20px;}
+.ordertab tr{border:1px solid #CBE2ED;height: 58px;line-height: 58px;}
+.ordertab tr td{text-align:left;padding-left:10px;width:18%;color:#5B955B;border:1px solid #CBE2ED; }
+.ordertab tr td.even{background:#E7EFE7;text-align:right;padding-right:20px;width: 140px;color: #666666;}
+.ordertab tr.lasta td{text-align:center;}
+.ordertab tr.lasta{height: 68px;}
+.ordertab tr.lasta td a{background:url(../images/three_detail/detail3.png) no-repeat 40px 16px;background-color:#65A365;color:white;width: 184px;height: 48px;display: block;line-height: 48px;margin:auto;border-radius:4px;}
