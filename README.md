@@ -1,2 +1,2 @@
 # tm_business
-初学git
+前端之旅之初遇git
